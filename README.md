@@ -4,6 +4,8 @@ Free AI image generation
 
 # Getting key
 
+# Due to internal issues you are requested to use the key `test` for the time being.
+
 Join the discord server at 
 https://discord.gg/bUQdAujVYd
 
