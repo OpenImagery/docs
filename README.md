@@ -13,7 +13,7 @@ follow the instructions to get a key.
 
 # Image generation
 
-## Base url: https://api.sitius.ir
+## Base url: https://ai.sitius.ir
 
 ## POST /v1/generate/
 ### Headers
