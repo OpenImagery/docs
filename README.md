@@ -1,3 +1,6 @@
+# Discontinuation
+The API is now closed. Thank you for your support.
+
 # Open Imagery
 
 Free AI image generation
